@@ -5,10 +5,10 @@ Section: Tweaks
 Maintainer: IOSGGAR <email@iosggar.com>
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/A Test Tweak.deb
+Filename: ./debs/com.djtk.wrobots_7.01_arm-1.deb
 Size: 3826 
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
 Description: This is a test package.
 Name: Test package
 Author: IOSGGAR <email@iosggar.com>
-Depiction: A Test tweak
+Depiction: wrobots speed
