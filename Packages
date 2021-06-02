@@ -1,6 +1,6 @@
 
 Package: com.IOSGGAR.FirstRelease
-Version: 1.0
+Version: 3.0
 Section: Tweaks
 Maintainer: IOSGGAR <email@iosggar.com>
 Depends: firmware (>10.0), mobilesubstrate
