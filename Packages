@@ -1,14 +1,13 @@
-
 Package: com.IOSGGAR.FirstRelease
-Version: 3.0
+Version: 6.1
 Section: Tweaks
 Maintainer: IOSGGAR <email@iosggar.com>
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.djtk.wrobots_7.01_arm-1.deb
+Filename: ./debs/iosggar.v6_6.1_iphoneos-arm.deb
 Size: 3826 
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
 Description: This is a test package.
-Name: war robots speed 7.01
+Name: iosggar.v6_6.1
 Author: IOSGGAR <email@iosggar.com>
-Depiction: war robots speed 7.01
+Depiction: IOSGGAR PUBG
